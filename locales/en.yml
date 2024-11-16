@@ -1,0 +1,45 @@
+breadcrumb:
+  new_template: New Template Message
+  templates: Templates
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+call_to_action: Call to actions
+form_submit: Save
+image: Image
+inputs:
+  body: Template Body
+  footer: Footer
+  language: Language
+  name: Template Name
+  nationality: Language
+intro:
+  aka: Also known as
+  desc: Opinionated Vite Starter Template
+  dynamic-route: Demo of dynamic route
+  hi: Hi, {name}!
+  whats-your-name: What's your name?
+marketing: Marketing
+none: None
+not-found: Not found
+language_placeholder: Select Language
+template_body_description: Enter the text of your message in the language you’ve selected
+template_buttons: Buttons
+template_buttons_description: >-
+  Create buttons that let your customers respond to your message or take an
+  action.
+template_category: Category
+template_category_description: Choose your message template
+template_details: Template Details
+template_details_description: Define your template name and language
+template_footer_description: >-
+  Use this section for optional details like disclaimers, contact info, or
+  additional context.
+template_header: Header
+template_header_description: Highlight your brand here, use images or videos, to stand out
+text: Text
+utility: Utility
